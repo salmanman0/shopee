@@ -7,7 +7,7 @@
 .left-banner {
   margin-right: 5px;
 }
-.left-banner > img {
+.rolling-banner {
   width: 820px;
   border-radius: 2px;
 }
@@ -24,11 +24,20 @@
 }
 .bottom-section > li {
   width: 100px;
+  height: 80px;
   text-align: center;
+  cursor: pointer;
+
+}
+.bottom-section > li:hover > img {
+  width: 48px;
+  margin-bottom: 8px;
 }
 .bottom-section > li > img {
   width: 45px;
   margin-bottom: 5px;
 }
-
+.bottom-section > li > span {
+  margin-bottom: auto;
+}
 
