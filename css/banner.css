@@ -1,0 +1,34 @@
+.banner {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+}
+.left-banner {
+  margin-right: 5px;
+}
+.left-banner > img {
+  width: 820px;
+  border-radius: 2px;
+}
+.right-banner > img {
+  width: 400px;
+  border-radius: 2px;
+  margin-bottom: 3px;
+}
+.bottom-section {
+  width: 1200px;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: flex-start;
+}
+.bottom-section > li {
+  width: 100px;
+  text-align: center;
+}
+.bottom-section > li > img {
+  width: 45px;
+  margin-bottom: 5px;
+}
+
+

@@ -1,0 +1,36 @@
+.content {
+  background-color: rgb(200, 200, 200);
+  margin-top: 10px;
+  padding-top: 20px;
+}
+.container {
+  background-color: white;
+  width: 1200px;
+  margin: auto;
+}
+.kategori {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.kategori > h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.top-product > li {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.top-product > li > img {
+  width: 110px;
+  margin-right: 7px;
+}
+.bottom-product > li {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.bottom-product > li > img {
+  width: 110px;
+  margin-right: 7px;
+}
